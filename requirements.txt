@@ -1,1 +1,1 @@
-citric @ git+https://github.com/edgarrmondragon/citric.git
+citric @ git+https://github.com/vianhazman/citric.git
